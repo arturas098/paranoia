@@ -1,0 +1,13 @@
+{
+  "short_name": "Paranoia",
+  "name": "Paranoia",
+  "icons": [
+    { "src": "pn-icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "pn-icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
